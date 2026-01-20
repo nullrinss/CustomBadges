@@ -23689,6 +23689,10 @@
     {
       "tooltip": "Early Verified Bot Developer",
       "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/EarlyVerifiedBotDeveloper.png"
+    },
+    {
+      "tooltip": "Early Supporter",
+      "badge": "https://cdn.jsdelivr.net/gh/nullrinss/badges@main/EarlySupporter.png"
     }
   ]
 }
